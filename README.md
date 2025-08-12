@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abbie Maemoto</h1>
 <h3 align="center">A passionate product leader who leverages experiences in software, design, PM, and entrepreneurship to produce technologies that transform the lives of those who need the technology the most.</h3>
 
-- 🔭 I’m currently working on **a seed-stage venture 🤖**
+- 🔭 I’m currently working on **incorporating human-in-the-loop features for building autonomous agents 🤖**
 
 - 👯 I’m looking to collaborate on **social impact projects, especially in ed-tech.**
 
